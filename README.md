@@ -1,5 +1,5 @@
 ## PySpark Data Processing - week10_PySpark_zihan
-
+[![CI](https://github.com/zihanxiao23/week10_PySpark_zihan/actions/workflows/cicd.yml/badge.svg)](https://github.com/zihanxiao23/week10_PySpark_zihan/actions/workflows/cicd.yml)
 This project utilizes PySpark for data processing on a large dataset, with a focus on applying Spark SQL queries and performing data transformations. The dataset is sourced from fivethirtyeight and contains information about the guests of *The Daily Show*.
 
 ### Setup:
